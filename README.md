@@ -22,7 +22,7 @@ npm run build --report
 
 ### 效果 :
 
-![avatar](./example.png)
+![avatar](./examples/assets/example.png)
 
 点击左键开始绘制，点击右键完成一个多边形的绘制，可以绘制多个多边形。
 可以返回绘制的多边形的各顶点坐标
@@ -70,4 +70,6 @@ events
 confirm： 确认绘制事件，参数类型为CanvasPoly，是基于CanvasPoint[][]的封装对象，一般用于将绘制的多边形数据传输给父组件。
 ``` 
 
+类型可以参考打包生产的类型定义文件。
+![avatar](./examples/assets/dir.png)
 
