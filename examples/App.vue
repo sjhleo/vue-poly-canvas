@@ -19,7 +19,6 @@ import { Component, Vue } from "vue-property-decorator";
 export default class App extends Vue {
   public name = "app";
   public mounted() {
-    // console.log((this.$refs["hello"] as HelloWorld).name);
   }
 }
 </script>

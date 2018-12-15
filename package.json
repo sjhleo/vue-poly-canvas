@@ -23,11 +23,11 @@
   "license": "MIT",
   "homepage": "https://github.com/sjhleo",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/sjhleo/vue-poly-canvas"
+    "type": "git",
+    "url": "https://github.com/sjhleo/vue-poly-canvas"
   },
   "bugs": {
-      "url": "https://github.com/sjhleo/vue-poly-canvas/issues"
+    "url": "https://github.com/sjhleo/vue-poly-canvas/issues"
   },
   "dependencies": {
     "vue": "^2.5.2",
